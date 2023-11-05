@@ -1,5 +1,5 @@
-# mapping-bts
-Processes for Enterprise and Investigation Graphics Mapping Projects
+# Mapping Code Snippets
+Processes used for McClatchy's Enterprise and Investigation Graphics Team Mapping Projects
 
 ## Text
 
